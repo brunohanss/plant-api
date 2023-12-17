@@ -59,4 +59,4 @@ async def classify(model_name: str, data: dict):
 
 if __name__ == "__main__":
     # Include the uvicorn command
-    subprocess.run(["uvicorn", "api:app", "--reload"])
+    subprocess.run(["nohup", "uvicorn", "api:app", "--reload"])
