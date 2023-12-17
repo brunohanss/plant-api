@@ -13,7 +13,7 @@ models_info = [
     {"name": "leaf-disease", "pretrained_name": "NonoBru/leaf-disease-classifier"},
     {"name": "fruit-leaf-mushrooms", "pretrained_name": "NonoBru/fruit-leaf-mushrooms-classifier"},
     {"name": "health", "pretrained_name": "NonoBru/health-classifier"},
-    {"name": "mushroom", "pretrained_name": "NonoBru/health-classifier"},
+    {"name": "mushroom", "pretrained_name": "NonoBru/mushroom-classifier"},
     {"name": "leaf", "pretrained_name": "NonoBru/leaf-classifier"},
     {"name": "fruit", "pretrained_name": "NonoBru/fruit-classifier-1.0"},
     {"name": "deficiency", "pretrained_name": "NonoBru/deficiency-classifier"},
